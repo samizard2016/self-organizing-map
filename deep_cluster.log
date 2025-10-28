@@ -1,0 +1,94 @@
+28-02-2025 11:20:23 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:20:23 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:20:25 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:20:25 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:20:29 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:20:29 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:20:29 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:20:31 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:20:31 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:20:31 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:20:31 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:30:48 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:30:48 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:30:50 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:30:50 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:30:58 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:30:58 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:30:58 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:30:58 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:31:04 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:31:04 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:31:05 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:31:05 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:31:05 INFO     [som_revised.py:85] List of outliers based off threshold(3.6) has been generated
+28-02-2025 11:31:08 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:31:08 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:31:08 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:31:08 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:31:08 INFO     [som_revised.py:85] List of outliers based off threshold(3.6) has been generated
+28-02-2025 11:31:12 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:31:12 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:31:12 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:31:12 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:31:12 INFO     [som_revised.py:85] List of outliers based off threshold(3.6) has been generated
+28-02-2025 11:31:14 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:31:14 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:31:14 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:31:14 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:31:14 INFO     [som_revised.py:85] List of outliers based off threshold(3.6) has been generated
+28-02-2025 11:31:17 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:31:17 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:31:17 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:31:17 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:31:17 INFO     [som_revised.py:85] List of outliers based off threshold(3.6) has been generated
+28-02-2025 11:43:34 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:43:34 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:43:36 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:43:36 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:43:40 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:43:40 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:43:40 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:43:43 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:43:43 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:43:43 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:43:43 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:43:44 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:43:44 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:43:44 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:43:44 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:43:50 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:43:50 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:43:50 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:43:50 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:43:50 INFO     [som_revised.py:85] List of outliers based off threshold(3.6) has been generated
+28-02-2025 11:43:58 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:43:58 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:43:58 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:43:58 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:43:58 INFO     [som_revised.py:85] List of outliers based off threshold(3.6) has been generated
+28-02-2025 11:43:58 INFO     [dc.py:134] Lists of outliers have been successfully saved and downloaded
+28-02-2025 11:44:02 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:44:02 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:44:02 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:44:02 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:44:03 INFO     [som_revised.py:85] List of outliers based off threshold(3.6) has been generated
+28-02-2025 11:44:03 INFO     [dc.py:134] Lists of outliers have been successfully saved and downloaded
+28-02-2025 11:53:30 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:53:30 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:53:30 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:53:30 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:53:30 INFO     [som_revised.py:85] List of outliers based off threshold(3.6) has been generated
+28-02-2025 11:53:31 INFO     [dc.py:134] Lists of outliers have been successfully saved and downloaded
+28-02-2025 11:53:33 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:53:33 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:53:33 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:53:33 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:53:33 INFO     [som_revised.py:85] List of outliers based off threshold(3.6) has been generated
+28-02-2025 11:53:33 INFO     [dc.py:134] Lists of outliers have been successfully saved and downloaded
+28-02-2025 11:53:35 INFO     [som_revised.py:23] A new session of Deep Cluster just started
+28-02-2025 11:53:35 INFO     [som_revised.py:30] The model (Deep Cluster) has been trained with default settings
+28-02-2025 11:53:35 INFO     [som_revised.py:172] U Matrix has been successfully built and saved
+28-02-2025 11:53:35 INFO     [som_revised.py:122] 3-\u03c3 list of outliers has been generated successfully
+28-02-2025 11:53:36 INFO     [som_revised.py:85] List of outliers based off threshold(3.6) has been generated
+28-02-2025 11:53:36 INFO     [dc.py:134] Lists of outliers have been successfully saved and downloaded

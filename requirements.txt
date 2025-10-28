@@ -1,0 +1,6 @@
+numpy
+pandas
+streamlit
+minisom
+st_aggrid
+openpyxl
